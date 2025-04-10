@@ -15,8 +15,6 @@ int main(){
     char grade = 'C';       // Char stores a single character
     char name[] = "Marcus"; // Array of Charcters
 
-    printf("Hello %s",name); // To print variable, you need to add a % for a placeholder and then a format specifier
-    printf("You are %d years old",age);
-
+    printf("Hello %s\nYour %d years old\nYour grade is %c\nYour average grade is %f",name,age,grade,gpa); // To print variable, you need to add a % for a placeholder and then a format specifier
     return 0;
 }
