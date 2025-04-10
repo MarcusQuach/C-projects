@@ -1,0 +1,5 @@
+1. CD into directory
+2. gcc into c text file
+2a. If nothing returns then perfect
+2b. If something returns you have a problem with the code
+3. type a.exe into cmd
