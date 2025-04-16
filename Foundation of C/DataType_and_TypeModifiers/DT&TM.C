@@ -1,7 +1,6 @@
 #include <stdio.h>
 
 int main() {
-
         // unsigned int to add a int data type
         // to store values that arent negative
         unsigned int ui = -100;
